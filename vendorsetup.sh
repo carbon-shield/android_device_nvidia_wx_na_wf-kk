@@ -1,2 +1,3 @@
 add_lunch_combo cm_wx_na_wf-eng
-
+add_lunch_combo carbon_wx_na_wf-eng
+add_lunch_combo carbon_wx_na_wf-userdebug
